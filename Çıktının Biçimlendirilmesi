@@ -1,0 +1,49 @@
+---ORJİNAL ---
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
+
+
+--- DAHA AZ SATIR ---
+
+print("    *\n   * *\n  *   *\n *     *\n***   ***\n  *   *\n  *   *\n  *****")
+
+print("\n" + "="*30 + "\n")
+
+---  DAHA BÜYÜK ---
+
+print("        *")
+print("       * *")
+print("      *   *")
+print("     *     *")
+print("    *       *")
+print("   *         *")
+print("  *           *")
+print(" *             *")
+print("*****************")
+print("      *   *")
+print("      *   *")
+print("      *   *")
+print("      *   *")
+print("      *   *")
+print("      *   *")
+print("      *   *")
+print("      *   *")
+print("      *****")
+
+
+-ÇİFT ÜÇGEN---
+
+print("    *       *")
+print("   * *     * *")
+print("  *   *   *   *")
+print(" *     * *     *")
+print("***   ******   ***")
+print("  *   *   *   *")
+print("  *   *   *   *")
+print("  *****   *****")
