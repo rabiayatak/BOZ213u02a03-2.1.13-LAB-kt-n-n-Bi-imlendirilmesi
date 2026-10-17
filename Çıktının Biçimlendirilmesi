@@ -1,4 +1,4 @@
----ORJİNAL ---
+# ORJİNAL
 print("    *")
 print("   * *")
 print("  *   *")
@@ -9,12 +9,12 @@ print("  *   *")
 print("  *****")
 
 
---- DAHA AZ SATIR ---
+# DAHA AZ SATIR
 
 print("    *\n   * *\n  *   *\n *     *\n***   ***\n  *   *\n  *   *\n  *****")
 
 
----  DAHA BÜYÜK ---
+# DAHA BÜYÜK 
 
 print("        *")
 print("       * *")
@@ -36,7 +36,7 @@ print("      *   *")
 print("      *****")
 
 
--ÇİFT ÜÇGEN---
+# ÇİFT ÜÇGEN
 
 print("    *       *")
 print("   * *     * *")
